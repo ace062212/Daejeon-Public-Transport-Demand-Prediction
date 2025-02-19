@@ -515,3 +515,8 @@
    - 모델의 성능과 실제 활용성은 별개의 문제
    - 실제 환경에서의 적용 가능성 고려가 필수
    - 유지보수와 확장성을 고려한 설계의 중요성
+
+## 📞 Contact
+- Email: ace062212@gmail.com
+- GitHub: [ace062212](https://github.com/ace062212)
+  
