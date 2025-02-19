@@ -5,6 +5,11 @@
 ![MAE](https://img.shields.io/badge/MAE-3.89-success?style=for-the-badge)
 ![Data](https://img.shields.io/badge/Data-Public_Transport-informational?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAAdgAAAHYBTnsmCAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAEUSURBVDiNY8AHnAMiGBj+/2dgYGBg+P//P8PqvL1EqWdBF/D1D2X48/cvAxMTEwMDAwPDj5/fGTwCI4mqZ0ETZGBgYNi0fQPD9ZuXGBgYGBhkpOUYzh7bTpR6rFGYmZvF8P37NwYGBgYGdg5OBjExSYb///8zsLCwMPz584fh/fv3DJwcnAxMTEwMTExMDH///WVgYGBg+PbtKwMPNy/D////GRgYGLD74dPnjwx///1lYGRkZGBmZmH4+vUzw+cvHxn4+QUYvn79zPD923cGZmYWhv///zN8/PiB4fu3bwwMDAwMQsIiDH/+/GFgYmJi+PThI8P////xJ2NhMXGGH9+/MXz++IHhz98/DAz///9nYGBgAADzm0WT2nxKwQAAAABJRU5ErkJggg==)
 
+[![GitHub stars](https://img.shields.io/github/stars/ace062212/korea-population-visualization?style=social)](https://github.com/ace062212/korea-population-visualization/stargazers)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ace062212/korea-population-visualization)
+![GitHub last commit](https://img.shields.io/github/last-commit/ace062212/korea-population-visualization)
+
+
 ## 📌 프로젝트 소개
 본 프로젝트는 2023년 지역사회 문제해결형 빅데이터/AI활용 공모전의 일환으로, 대전시 대중교통 통행수요를 예측하는 모델을 개발했습니다.
 
